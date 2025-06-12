@@ -1,0 +1,3 @@
+D:/lrq/visualCode/MyCode/TcpServer/build/CMakeFiles/app.dir
+D:/lrq/visualCode/MyCode/TcpServer/build/CMakeFiles/ALL_BUILD.dir
+D:/lrq/visualCode/MyCode/TcpServer/build/CMakeFiles/ZERO_CHECK.dir
